@@ -87,14 +87,23 @@ are based on 10px sizing. So basically 1.5rem = 15px :) */
 
 html {
   font-size: 100%;
-  color-scheme: dark;
+  /* color-scheme: dark; */
+
+
 }
 body {
+
+  background-image: url("wall.png"); /* The image used */
+  background-color: #212d3a; /* Used if the image is unavailable */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
   font-size: 18px;
   line-height: 24px;
   font-weight: 400;
   font-family: "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial,
-    sans-serif;
+    sans-serif; 
+
+  
 }
 
 /* Typography
