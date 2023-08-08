@@ -90,7 +90,7 @@ html {
   color-scheme: light dark;
 }
 body {
-  background-image: url("/images/wall5.jpg"); /* The image used */
+  background-image: url("/images/wall6.jpg"); /* The image used */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover;
   background-color: #212d3a; /* Used if the image is unavailable */
