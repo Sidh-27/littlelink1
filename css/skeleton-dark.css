@@ -94,9 +94,9 @@ html {
 body {
 
   background-image: url("/images/wall.webp"); /* The image used */
-  background-color: #212d3a; /* Used if the image is unavailable */
   background-repeat: no-repeat; /* Do not repeat the image */
-  background-size: cover; /* Resize the background image to cover the entire container */
+  background-size: cover;
+  background-color: #212d3a; /* Used if the image is unavailable */
   font-size: 18px;
   line-height: 24px;
   font-weight: 400;
